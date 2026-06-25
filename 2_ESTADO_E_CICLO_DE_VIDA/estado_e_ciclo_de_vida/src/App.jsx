@@ -29,7 +29,7 @@ function App() {
       <Clock />
       <h2>4 - Lista de Tarefas</h2>
       <TodoList />
-      <h2>6 - Verificar de lagura de tela</h2>
+      <h2>6 - Verificador de lagura de tela</h2>
       <WindowWidthChecker />
       <h2>7 - Simulação de requisição para API</h2>
       <DataFetcher />
